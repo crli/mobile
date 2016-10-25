@@ -1,4 +1,1 @@
-# webpack-boilerplate
-webpack-es6-boilerplate
-
-Webpack开发和部署 常用方法
+Live demo: http://crli.github.io/mobile/
